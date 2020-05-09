@@ -1,5 +1,6 @@
 {
-  "name": "@ranga_cr72/tiny,
+  "name": "@ranga_cr72/tiny",
+  "version": "1.0.0",
   "author": "Jane Doe",
   "dependencies": {
     "express": "^4.14.0"
